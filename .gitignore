@@ -1,0 +1,19 @@
+# Cache do Godot (regenerado ao abrir o projeto)
+OblitusLimbo/.godot/
+*.tmp
+*.import.tmp
+
+# Executável do Godot (baixar em godotengine.org — veja o README)
+engine/
+
+# Pacotes de assets brutos e zips originais (o que o jogo usa já está em OblitusLimbo/assets)
+AssetsParaOJogo/
+downloads/
+
+# Renders de teste, logs e lixo de ferramentas
+frames/
+logs/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
